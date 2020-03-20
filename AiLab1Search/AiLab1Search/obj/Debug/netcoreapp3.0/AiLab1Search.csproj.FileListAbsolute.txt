@@ -1,0 +1,11 @@
+C:\Users\Asus\source\repos\AiLab1Search\AiLab1Search\bin\Debug\netcoreapp3.0\AiLab1Search.exe
+C:\Users\Asus\source\repos\AiLab1Search\AiLab1Search\bin\Debug\netcoreapp3.0\AiLab1Search.deps.json
+C:\Users\Asus\source\repos\AiLab1Search\AiLab1Search\bin\Debug\netcoreapp3.0\AiLab1Search.runtimeconfig.json
+C:\Users\Asus\source\repos\AiLab1Search\AiLab1Search\bin\Debug\netcoreapp3.0\AiLab1Search.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\AiLab1Search\AiLab1Search\bin\Debug\netcoreapp3.0\AiLab1Search.dll
+C:\Users\Asus\source\repos\AiLab1Search\AiLab1Search\bin\Debug\netcoreapp3.0\AiLab1Search.pdb
+C:\Users\Asus\source\repos\AiLab1Search\AiLab1Search\obj\Debug\netcoreapp3.0\AiLab1Search.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\AiLab1Search\AiLab1Search\obj\Debug\netcoreapp3.0\AiLab1Search.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\AiLab1Search\AiLab1Search\obj\Debug\netcoreapp3.0\AiLab1Search.AssemblyInfo.cs
+C:\Users\Asus\source\repos\AiLab1Search\AiLab1Search\obj\Debug\netcoreapp3.0\AiLab1Search.dll
+C:\Users\Asus\source\repos\AiLab1Search\AiLab1Search\obj\Debug\netcoreapp3.0\AiLab1Search.pdb
