@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "AiLab2Search/1.0.0": {
+        "runtime": {
+          "AiLab2Search.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AiLab2Search/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

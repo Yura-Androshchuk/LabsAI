@@ -1,0 +1,13 @@
+D:\AI\AiLab2Search\AiLab2Search\bin\Debug\netcoreapp3.1\AiLab2Search.exe
+D:\AI\AiLab2Search\AiLab2Search\bin\Debug\netcoreapp3.1\AiLab2Search.deps.json
+D:\AI\AiLab2Search\AiLab2Search\bin\Debug\netcoreapp3.1\AiLab2Search.runtimeconfig.json
+D:\AI\AiLab2Search\AiLab2Search\bin\Debug\netcoreapp3.1\AiLab2Search.runtimeconfig.dev.json
+D:\AI\AiLab2Search\AiLab2Search\bin\Debug\netcoreapp3.1\AiLab2Search.dll
+D:\AI\AiLab2Search\AiLab2Search\bin\Debug\netcoreapp3.1\AiLab2Search.pdb
+D:\AI\AiLab2Search\AiLab2Search\obj\Debug\netcoreapp3.1\AiLab2Search.csprojAssemblyReference.cache
+D:\AI\AiLab2Search\AiLab2Search\obj\Debug\netcoreapp3.1\AiLab2Search.csproj.CoreCompileInputs.cache
+D:\AI\AiLab2Search\AiLab2Search\obj\Debug\netcoreapp3.1\AiLab2Search.AssemblyInfoInputs.cache
+D:\AI\AiLab2Search\AiLab2Search\obj\Debug\netcoreapp3.1\AiLab2Search.AssemblyInfo.cs
+D:\AI\AiLab2Search\AiLab2Search\obj\Debug\netcoreapp3.1\AiLab2Search.dll
+D:\AI\AiLab2Search\AiLab2Search\obj\Debug\netcoreapp3.1\AiLab2Search.pdb
+D:\AI\AiLab2Search\AiLab2Search\obj\Debug\netcoreapp3.1\AiLab2Search.genruntimeconfig.cache
