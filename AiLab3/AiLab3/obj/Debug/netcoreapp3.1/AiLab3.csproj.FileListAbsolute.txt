@@ -1,0 +1,13 @@
+C:\Users\Asus\source\repos\AiLab3\AiLab3\bin\Debug\netcoreapp3.1\AiLab3.exe
+C:\Users\Asus\source\repos\AiLab3\AiLab3\bin\Debug\netcoreapp3.1\AiLab3.deps.json
+C:\Users\Asus\source\repos\AiLab3\AiLab3\bin\Debug\netcoreapp3.1\AiLab3.runtimeconfig.json
+C:\Users\Asus\source\repos\AiLab3\AiLab3\bin\Debug\netcoreapp3.1\AiLab3.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\AiLab3\AiLab3\bin\Debug\netcoreapp3.1\AiLab3.dll
+C:\Users\Asus\source\repos\AiLab3\AiLab3\bin\Debug\netcoreapp3.1\AiLab3.pdb
+C:\Users\Asus\source\repos\AiLab3\AiLab3\obj\Debug\netcoreapp3.1\AiLab3.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\AiLab3\AiLab3\obj\Debug\netcoreapp3.1\AiLab3.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\AiLab3\AiLab3\obj\Debug\netcoreapp3.1\AiLab3.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\AiLab3\AiLab3\obj\Debug\netcoreapp3.1\AiLab3.AssemblyInfo.cs
+C:\Users\Asus\source\repos\AiLab3\AiLab3\obj\Debug\netcoreapp3.1\AiLab3.dll
+C:\Users\Asus\source\repos\AiLab3\AiLab3\obj\Debug\netcoreapp3.1\AiLab3.pdb
+C:\Users\Asus\source\repos\AiLab3\AiLab3\obj\Debug\netcoreapp3.1\AiLab3.genruntimeconfig.cache
