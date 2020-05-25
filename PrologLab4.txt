@@ -1,0 +1,23 @@
+%%States
+	start([side2, side1, side2]).%% start state
+    goal([side1, side1, side1]). %% goal type 1
+    goal([side2, side2, side2]). %% goal type 2
+%% Just 2 possible flps
+	changeSide(side2, side1).  
+	changeSide(side1, side2).
+%% Makes Pairs of Coin side changes
+makeFlips([Coin1, Coin2, Coin3],[NewCoin1 ,NewCoin2, Coin3]):- 	changeSide(Coin1, NewCoin1), changeSide(Coin2, NewCoin2).  
+makeFlips([Coin1, Coin2, Coin3],[Coin1, NewCoin2, NewCoin3]):- 	changeSide(Coin2, NewCoin2), changeSide(Coin3, NewCoin3).  
+makeFlips([Coin1, Coin2, Coin3],[NewCoin1, Coin2, NewCoin3]):-  changeSide(Coin1, NewCoin1), changeSide(Coin3, NewCoin3).  
+
+%%Seach
+dls( Node, [Node], _)  :- goal(Node).
+
+dls( Node, [Node | Sol], Deapth)  :-
+   Deapth > 0,
+   makeFlips( Node, Node1),
+   NewDeapth is Deapth - 1,
+   dls( Node1, Sol, NewDeapth). %%recursion
+%%
+execute(Solution)  :- start(Start),
+                    dls( Start, Solution, 3).
